@@ -1,6 +1,14 @@
 # Simple Articles Site built with Node.js - Mongoose - Express and Bootstrap
 
 
+1. Bootstrap ✔
+2. PUG ✔
+3. Express ✔
+4. Add, Edit, Delete Articles ✔
+5. Mongo and Mongoose integerated ✔
+6. JSON response API ✔ (/api/jsonposts)
+7. Local host:3000 ✔
+
 # Dependencies 
 
     "body-parser": "^1.19.0",
@@ -10,13 +18,6 @@
     "pug": "^3.0.2"
 
 
-1. Bootstrap ✔
-2. PUG ✔
-3. Express ✔
-4. Add, Edit, Delete Articles ✔
-5. Mongo and Mongoose integerated ✔
-6. JSON response API ✔ (/api/jsonposts)
-7. Local host:3000 ✔
 
 # Home Page
 
