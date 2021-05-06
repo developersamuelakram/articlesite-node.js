@@ -1,0 +1,10 @@
+extends layout
+
+block content
+ h1.headings #{title}
+ a.btn.btn-danger.delete-article.newblog(href="/articles/add/") Add New Blog
+
+ ul.list-group
+ each article, i in articles
+  li.list-group-item
+   a(href="/article/" + article._id)=article.title
