@@ -1,5 +1,15 @@
 # Simple Articles Site built with Node.js - Mongoose - Express and Bootstrap
 
+
+# Dependencies 
+
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.7",
+    "pug": "^3.0.2"
+
+
 1. Bootstrap ✔
 2. PUG ✔
 3. Express ✔
