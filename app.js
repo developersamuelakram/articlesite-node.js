@@ -153,7 +153,3 @@ app.get("/article/delete/:id", (req, res) => {
     }
   });
 });
-
-app.get("/display/list", (req, res) => {
-  res.sendFile(__dirname + "/views/newfile.html");
-});
